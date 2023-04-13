@@ -1,0 +1,45 @@
+《更新日志---Changelog》
+******************************************************
+新增>世界选项>世界玩乐>下狗屎雨
+新增>世界选项>世界玩乐>下核弹雨
+新增>战局恶搞>全局事件>部分自由模式事件
+改进>战局中脚本检测线程的卡顿问题
+改进>其他选项>显示选项>嗨起来(显示效果)
+改进>其他选项>显示选项>显示速度(更加准确)
+改进>其他选项>显示选项>主机序列(可自由移动)
+重制>武器选项>核弹枪(所有武器/可关闭/落地爆炸)
+其他的一些改进与修复
+******************************************************
+【Version: GRANDTOURINGVIP(ST23.4.12)】
+******************************************************
+[此版本为GrandTouringVIP[Stand] 2023.4.12版本]
+[此版本为GrandTouringVIP[Stand] 2023.4.12版本]
+[此版本为GrandTouringVIP[Stand] 2023.4.12版本]
+******************************************************
+---脚本获取途径: QQ群号238394690
+---日常闲聊途径: QQ群号716431566
+---Discord: https://discord.gg/nJjB8FtxdN
+---:)祝您游戏愉快儿~~~
+ENG
+Update Log - Changelog
+******************************************************
+New>World Options>World Play>Rain of Shit
+New>World Options>World Play>Drop Nuclear Bomb Rain
+New>War situation spoof>Global event>Partial free mode event
+Improvement>Script Detection Thread Stuck Problem in Battlefield
+Improvements>Other Options>Display Options>Hi (Display Effects)
+Improvement>Other Options>Display Options>Display Speed (More Accurate)
+Improvements>Other Options>Display Options>Host Sequence (can be freely moved)
+Remake>Weapon Options>Nuclear Gun (all weapons/switchable/ground explosion)
+Other improvements and fixes
+******************************************************
+【Version: GRANDTOURINGVIP(ST23.4.12)】
+******************************************************
+[This version is GrandTouringVIP [Stand] version 2023.4.12]
+[This version is GrandTouringVIP [Stand] version 2023.4.12]
+[This version is GrandTouringVIP [Stand] version 2023.4.12]
+******************************************************
+---Script acquisition method: QQ group number 238394690
+---Daily chat channels: QQ group number 716431566
+---Discord: https://discord.gg/nJjB8FtxdN
+---Wishing you a pleasant game~~~
